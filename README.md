@@ -8,7 +8,7 @@ Por todo esto se planta como objetivo construir un modelo de aprendizaje supervi
 
 ## Integrantes
 
-Grupo 14
+Grupo 13
 
 Natalia Machetti
 
